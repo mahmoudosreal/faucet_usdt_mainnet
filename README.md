@@ -1,6 +1,7 @@
 # USDT Tether Faucet Smart Contract on Ethereum
 
 ![N|Solid](https://logowik.com/content/uploads/images/t_tether-usdt3962.jpg)
+
 Welcome to the USDT Tether Faucet Smart Contract project on the Ethereum network! This repository hosts a smart contract that acts as a faucet, providing developers with a way to obtain a new custom USDT-like token for testing and experimentation purposes.
 
 ## About
